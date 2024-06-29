@@ -6,4 +6,4 @@ Exploratory data analysis of the quasar candidates catalog by Richards et al., A
 
 **quasars_eda.ipynb** is the Jupyter iPython notebook where the whole analysis was performed.
 
-**cand.dat** is the raw catalog which the analysis was based on (accessed remotely as it's a large file; linked in the report).
+**cand.dat** is the raw catalog which the analysis was based on ([accessed remotely](https://cdsarc.cds.unistra.fr/ftp/J/ApJS/219/39/) as it's a large file).
